@@ -1,0 +1,4 @@
+[01-Aug-2015 02:41:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `term_ID` = 8 AND `language` = ''' at line 3 for query SELECT `name`
+						 FROM 
+						 WHERE `term_ID` = 8 AND `language` = ''
+						 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), call_user_func_array, Polylang->init, PLL_Admin->init, PLL_Model->get_languages_list, get_terms, apply_filters('get_terms'), call_user_func_array, mltlngg_terms_filter
